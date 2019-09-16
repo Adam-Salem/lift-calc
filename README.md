@@ -1,4 +1,3 @@
-# big-number
-big-number allows the user to take in large numbers as Strings and perform addition and subtraction with them. 
+# lift-calc
 
-This can be used to perform operations on numbers larger than the data types in Java.
+lift-calc will prompt the user for their desired exercise, and ask the most weight they've lifted as much as how many reps. It will then output the projected 1 rep maximum weight for that exercise back to the user.
